@@ -1,2 +1,0 @@
-# zec
-Cokil
